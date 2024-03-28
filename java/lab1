@@ -20,7 +20,7 @@ class lab1{
   public static void main(String[] args){
     try{
     Scanner obj = new Scanner(System.in);
-    Main a = new Main();
+    lab1 a = new lab1();
 
     System.out.println("Enter the name: ");
     a.name = obj.nextLine();
