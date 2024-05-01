@@ -1,0 +1,10 @@
+Public class temppp{
+    pubic static void main(Int age){
+        if (age<18){
+            System.out.println("You are not eligible to drink\n");
+        }
+        else{
+            System.out.println("Eligible\n");
+        }
+    }
+}
