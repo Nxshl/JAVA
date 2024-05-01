@@ -10,11 +10,3 @@ public class calculator{
         System.out.println("The subtraction :\n");
         System.out.println("The multiplication :\n");
         System.out.println("The division :\n");
-    }
-}
-
-public static void main(){
-    Scanner obj = new Scanner(System.in);
-    
-
-}
